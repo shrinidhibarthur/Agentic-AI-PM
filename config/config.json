@@ -1,0 +1,13 @@
+{
+    "teams_webhook_url": "https://your-teams-webhook",
+    "jira": {
+        "url": "https://your-domain.atlassian.net",
+        "email": "your-email@example.com",
+        "api_token": "your-api-token",
+        "project_key": "PROJ"
+    },
+    "thresholds": {
+        "conversion_rate_drop": 5,
+        "traffic_drop": 10
+    }
+}
